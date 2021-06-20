@@ -3,8 +3,8 @@
 ## Introduction to Circuits 
 1. [My First Circuit](https://github.com/jetbotml/2021SummerLibrary/tree/main/01_MyFirstCircuit)
 2. [Lighting an LED](https://github.com/jetbotml/2021SummerLibrary/tree/main/02_Lighting_an_LED)
-3. Adding a Button
-4. Using a Buzzer
+3. [Adding a Button](https://github.com/jetbotml/2021SummerLibrary/tree/main/03_Adding_a_Button)
+4. [Using a Buzzer](https://github.com/jetbotml/2021SummerLibrary/tree/main/04_Using_a_Buzzer)
 
 ## Introduction to Raspberry Pi and Physical Computing
 4. Python "Hello World"
