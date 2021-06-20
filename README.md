@@ -1,16 +1,16 @@
 # 2021 Summer Library Pi Camp
 
 ## Introdution to Circuits 
-1. My First Circuit
-2. Lighting an LED
+1. [My First Circuit](https://github.com/jetbotml/2021SummerLibrary/tree/main/01_MyFirstCircuit)
+2. [Lighting an LED](https://github.com/jetbotml/2021SummerLibrary/tree/main/02_Lighting_an_LED)
 3. Addng a Button
 4. Using a Buzzer
 
 ## Introdution to Raspberry Pi and Physical Computing
 4. Python "Hello World"
-5. Programming an LED
-6. Programming a Button
-7. Creating a Reaction Game
+5. [Programming an LED](https://github.com/jetbotml/2021SummerLibrary/tree/main/05_Programming_an_LED)
+6. [Programming a Button](https://github.com/jetbotml/2021SummerLibrary/tree/main/06_Programming_a_Button)
+7. [Creating a Reaction Game](https://github.com/jetbotml/2021SummerLibrary/tree/main/07_Creating_a_Reaction_Game)
 8. Programming a Buzzer
 9. Creating Traffic Lights
 
