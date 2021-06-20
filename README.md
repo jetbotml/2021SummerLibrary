@@ -1,16 +1,24 @@
 # 2021 Summer Library Pi Camp
 
-## Introdution to Circuits and Physical Computing 
+## Introdution to Circuits 
 1. My First Circuit
 2. Lighting an LED
-3. Lighting an LED using a Raspberry Pi
-4. Reading a Button input on a Raspberry Pi
-5. Making a Reaction Game
-6. Traffic Lights
+3. Addng a Button
+4. Using a Buzzer
+
+## Introdution to Raspberry Pi and Physical Computing
+4. Python "Hello World"
+5. Programming an LED
+6. Programming a Button
+7. Programming a Reaction Game
+8. Programming a Buzzer
+9. Programming Traffic Lights
 
 ## Intermediate Physical Computing - Sensors and More
-7. Motion Sensor
-8. Distance Sensor
-9. Light Sensor
-10. RGB LED
-11. 
+10. Motion Sensor
+11. Distance Sensor
+12. Light Sensor
+13. RGB LED
+14. Motor
+15. Servo
+16. Potentiometer
