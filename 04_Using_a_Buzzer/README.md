@@ -1,3 +1,3 @@
 # 4 Using a Buzzer
 
-[Buzzer](BBButtonBuzzer.jpg)
+![Buzzer](BBButtonBuzzer.jpg)
