@@ -23,4 +23,4 @@
 15. Servo
 16. Potentiometer
 
-## Advanced - Create Your Own Idea
+## Advanced - Create Your Own Build
