@@ -2,13 +2,7 @@
 
 https://projects.raspberrypi.org/en/projects/physical-computing/2
 
-What you will need
-![LED](LED.png)
-![Jumpers](MtoFJumper.png)
-![resistor](resistor.png)
 
-
-![whatisneeded](whatisneeded.png)
 
 
 ---FlashingLED.py – python code----------------------------------------------------
@@ -23,6 +17,3 @@ while True:
     led.off()
     sleep(1)
 
-
-![LEDPi](LEDPi.png)
-![BB](2021-06-19-214020.jpg)
