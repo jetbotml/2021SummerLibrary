@@ -1,4 +1,4 @@
-# 3 Lighting an LED using Raspberry Pi
+# 6 Programming a Button
 
 https://projects.raspberrypi.org/en/projects/physical-computing/2
 

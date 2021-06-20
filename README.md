@@ -10,9 +10,9 @@
 4. Python "Hello World"
 5. Programming an LED
 6. Programming a Button
-7. Programming a Reaction Game
+7. Creating a Reaction Game
 8. Programming a Buzzer
-9. Programming Traffic Lights
+9. Creating Traffic Lights
 
 ## Intermediate Physical Computing - Sensors and More
 10. Motion Sensor
