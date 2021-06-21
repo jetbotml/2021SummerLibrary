@@ -1,4 +1,4 @@
-# 6 Programming a Button
+# 6 Programming an LED
 
 https://projects.raspberrypi.org/en/projects/physical-computing/2
 
