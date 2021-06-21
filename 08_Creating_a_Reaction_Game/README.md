@@ -1,4 +1,4 @@
-# 07 Creating a Reaction Game
+# 08 Creating a Reaction Game
 
 https://gpiozero.readthedocs.io/en/stable/recipes.html#reaction-game
 
