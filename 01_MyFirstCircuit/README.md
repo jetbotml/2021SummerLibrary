@@ -13,10 +13,6 @@ Further Reading
   1. https://www.makerspaces.com/basic-electronics/
   2. https://learn.sparkfun.com/tutorials/what-is-a-circuit/all
 
-Reference
-https://www.makerspaces.com/basic-electronics/
-https://mammothmemory.net/physics/electricity/simple-electrical-circuits/simple-electrical-circuits.html
-
 
 ## Create Your First Cicuit
 To create our first circuit we will be using an LED, a coin battery.
