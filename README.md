@@ -11,8 +11,8 @@
 6. [Programming an LED](https://github.com/jetbotml/2021SummerLibrary/tree/main/06_Programming_an_LED)
 7. [Programming a Button](https://github.com/jetbotml/2021SummerLibrary/tree/main/07_Programming_a_Button)
 8. [Creating a Reaction Game](https://github.com/jetbotml/2021SummerLibrary/tree/main/08_Creating_a_Reaction_Game)
-9. [Programming a Buzzer](https://github.com/jetbotml/2021SummerLibrary/tree/main/09_Programming_a_Buzzer)
-10.[Creating Traffic Lights](https://github.com/jetbotml/2021SummerLibrary/tree/main/10_Creating_Traffic_Lights)
+9. [Programming a Buzzer](https://github.com/jetbotml/2021SummerLibrary/tree/main/09_Programming_a_Buzzer)  
+11.[Creating Traffic Lights](https://github.com/jetbotml/2021SummerLibrary/tree/main/10_Creating_Traffic_Lights)
 
 ## Intermediate Physical Computing - Sensors and More
 11. Motion Sensor
