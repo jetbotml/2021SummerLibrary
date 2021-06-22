@@ -19,5 +19,5 @@ To create our first circuit, we will be using an LED, a coin battery.
 
 To add an on/off switch we can add some electrical tape. 
 
-![FIrstCircuitwithSwitch](coinLED.png)
+![FIrstCircuitwithSwitch](coinLED2.png)
 
