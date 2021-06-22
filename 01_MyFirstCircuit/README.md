@@ -1,7 +1,7 @@
 # 1 My First Circuit
 
 ## What is a Circuit?
-A circuit is a closed loop that electrons can travel in
+A circuit is a closed loop that electrons can travel
 
 ![pict](simple-electrical-circuits-picture-4.4aff422.jpg)
 
