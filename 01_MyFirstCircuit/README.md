@@ -3,7 +3,7 @@
 ## What is a Circuit?
 An electronic circuit is a circular path of conductors by which electric current can flow.  A closed circuit is like a circle because it starts and ends at the same point forming a complete loop. Furthermore, a closed circuit allows electricity to flow from the (+) power to the (-) ground uninterrupted.
 
-![pict](simple-electrical-circuits-picture-4.4aff422.jpg)
+![pict](Circuit.png)
 
 All circuits need to have three basic elements.  These elements are a voltage source, conductive path and a load.
 
