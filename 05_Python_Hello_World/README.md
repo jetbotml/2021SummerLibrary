@@ -3,5 +3,5 @@
 [Python Intro](https://www.raspberrypi.org/learning/python-intro)
 
 ## Going Further
-[Turtle Snowflakes](https://www.raspberrypi.org/learning/turtle-snowflakes)
-[Turtley Amazing](https://www.raspberrypi.org/learning/turtley-amazing)
+ 1. [Turtle Snowflakes](https://www.raspberrypi.org/learning/turtle-snowflakes)
+ 1. [Turtley Amazing](https://www.raspberrypi.org/learning/turtley-amazing)
