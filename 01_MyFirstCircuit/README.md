@@ -14,8 +14,8 @@ Further Reading
   2. https://learn.sparkfun.com/tutorials/what-is-a-circuit/all
 
 
-## Create Your First Cicuit
-To create our first circuit we will be using an LED, a coin battery.
+## Create Your First Circuit
+To create our first circuit, we will be using an LED, a coin battery.
 
 To add an on/off switch we can add some electrical tape. 
 
