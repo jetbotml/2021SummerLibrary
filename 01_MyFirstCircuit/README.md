@@ -17,7 +17,7 @@ Further Reading
 ## Create Your First Circuit
 To create our first circuit, we will be using an LED, a coin battery.
 
-To add an on/off switch we can add some electrical tape. 
+Next, we will add an on/off switch using some electrical tape.
 
 ![FIrstCircuitwithSwitch](coinLED2.png)
 
