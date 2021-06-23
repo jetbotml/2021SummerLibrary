@@ -1,5 +1,7 @@
 # 2021 Summer Library Pi Camp
 
+<img src="path.pgn" width="50%" height="50%">
+
 ## Introduction to Circuits 
 1. [My First Circuit](https://github.com/jetbotml/2021SummerLibrary/tree/main/01_MyFirstCircuit)
 2. [Lighting an LED](https://github.com/jetbotml/2021SummerLibrary/tree/main/02_Lighting_an_LED)
