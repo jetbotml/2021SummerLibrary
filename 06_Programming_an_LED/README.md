@@ -17,3 +17,4 @@ https://projects.raspberrypi.org/en/projects/physical-computing
         led.off()
         sleep(1)
 
+<img src="2021-06-23-105259.jpg" width="50%" height="50%">
