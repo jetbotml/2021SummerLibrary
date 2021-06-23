@@ -1,6 +1,6 @@
 # 6 Programming an LED
 
-https://projects.raspberrypi.org/en/projects/physical-computing/2
+https://magpi.raspberrypi.org/articles/breadboard-tutorial
 
 https://projects.raspberrypi.org/en/projects/physical-computing
 
