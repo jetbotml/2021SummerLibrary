@@ -5,7 +5,7 @@ https://magpi.raspberrypi.org/articles/breadboard-tutorial
 https://projects.raspberrypi.org/en/projects/physical-computing
 
 
----FlashingLED.py – python code----------------------------------------------------
+
     from gpiozero import LED
     from time import sleep
 
