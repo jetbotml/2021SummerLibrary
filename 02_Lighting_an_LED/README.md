@@ -1,22 +1,19 @@
 # 2 Lighting an LED
 
-What you will need: 1 Breadboard, 2 wires, 1 reisitor and 1 LED
+## What is a breadboard?
+A breadboard is actually referring to a solderless breadboard. These are great units for making temporary circuits and prototyping, and they require absolutely no soldering.
+
+<img src="breadboad.jpg" width="50%" height="50%">
+
+Addidional information https://learn.sparkfun.com/tutorials/how-to-use-a-breadboard
+
+## What you will need: 
+1 Breadboard, 2 wires, 1 reisitor and 1 LED
 
 <img src="whatisneeded.png" width="50%" height="50%">
 
-How to use a BreadBoard
-
-<img src="breadboad.jpg" width="50%" height="50%">
-https://learn.sparkfun.com/tutorials/how-to-use-a-breadboard
-
-
-![](LEDCircuit.png)
-![](lightLED_batteryBreadLedCircuit.png)
-
-https://learn.sparkfun.com/tutorials/how-to-use-a-breadboard
-https://learn.sparkfun.com/tutorials/light-emitting-diodes-leds
-
-
-
+## Creating a Circuit on a Breadboard
 
 ![LED](BBLED.jpg)
+
+More on LEDs https://learn.sparkfun.com/tutorials/light-emitting-diodes-leds
