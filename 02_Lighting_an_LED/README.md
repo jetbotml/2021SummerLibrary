@@ -5,7 +5,7 @@ A breadboard is actually referring to a solderless breadboard. These are great u
 
 <img src="breadboad.jpg" width="50%" height="50%">
 
-Addidional information https://learn.sparkfun.com/tutorials/how-to-use-a-breadboard
+Additional information https://learn.sparkfun.com/tutorials/how-to-use-a-breadboard
 
 ## Creating a circuit on a breadboard
 
