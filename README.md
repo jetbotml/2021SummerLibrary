@@ -1,6 +1,6 @@
 # 2021 Summer Library Pi Camp
 
-<img src="path.pgn" width="50%" height="50%">
+<img src="path.png" width="50%" height="50%">
 
 ## Introduction to Circuits 
 1. [My First Circuit](https://github.com/jetbotml/2021SummerLibrary/tree/main/01_MyFirstCircuit)
