@@ -2,6 +2,9 @@
 
 https://gpiozero.readthedocs.io/en/stable/recipes.html#reaction-game
 
+
+<img src="reactionGameImage.png" width="50%" height="50%">
+
         from gpiozero import Button, LED
         from time import sleep
         import random
