@@ -17,6 +17,8 @@ Further Reading
 ## Create Your First Circuit
 To create our first circuit, we will be using an LED, a coin battery.
 
+<img src="LED_Coin.png" width="10%" height="10%">
+
 Next, we will add an on/off switch using some electrical tape.
 
 ![FIrstCircuitwithSwitch](coinLED2.png)
