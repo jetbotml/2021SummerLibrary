@@ -2,9 +2,8 @@
 
 What you will need
 
-![](12615-01.jpg)
-![](jumper-male-to-male.png)
-![](LED.png)
+![](whatisneeded.png)
+
 
 ![](breadboad.jpg)
 ![](LEDCircuit.png)
