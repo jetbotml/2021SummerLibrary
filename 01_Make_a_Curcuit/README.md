@@ -23,7 +23,7 @@ Using the electrical circuit experiment Kit:
 
 <img src="71u03d4KVlL._SL1500_.jpg" width="25%" height="25%">
 
-## Light an LED
+## Make an LED Flash Light
 
 ### To Do:
 
