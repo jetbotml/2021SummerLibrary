@@ -1,6 +1,3 @@
-# 4 Using a Buzzer
+# 4 Inputs and Outputs
 
 
-https://projects.raspberrypi.org/en/projects/physical-computing/8
-
-![Buzzer](BBButtonBuzzer.jpg)
