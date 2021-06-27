@@ -15,7 +15,7 @@ The voltage source, such as a battery, is needed in order to cause the current t
   
 ## Make a Circut using an electrical circuit experiment Kit
 
-<img src="71u03d4KVlL._SL1500_.jpg" width="50%" height="50%">
+<img src="71u03d4KVlL._SL1500_.jpg" width="25%" height="25%">
 
 ## Create Your First Circuit
 To create our first circuit, we will be using an LED, a coin battery.
