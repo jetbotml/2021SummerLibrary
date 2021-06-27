@@ -1,4 +1,4 @@
-# 1. Make a Circuit
+# 1. Make a Circuit.
 
 ## What is a Circuit?
 An electronic circuit is a circular path of conductors by which electric current can flow.  A closed circuit is like a circle because it starts and ends at the same point forming a complete loop. Furthermore, a closed circuit allows electricity to flow from the (+) power to the (-) ground uninterrupted.
@@ -13,17 +13,17 @@ All circuits need to have three basic elements.  These elements are a voltage so
 
 The voltage source, such as a battery, is needed in order to cause the current to flow through the circuit.  In addition, there needs to be a conductive path that provides a route for the electricity to flow.  Finally, a proper circuit needs a load that consumes the power.  The load in the above circuit is the light bulb.
   
-## Make a Circut using an electrical circuit experiment Kit
+## Make a Circuit using an electrical circuit experiment Kit
 
 ### To Do:
 
 Using the electrical circuit experiment Kit:
-1. Build a simple circuit using 2 wirs, a battery and a light bulb
-1. Add a switch to your circut
+1. Build a simple circuit using 2 wires, a battery and a light bulb
+1. Add a switch to your circuit
 
 <img src="71u03d4KVlL._SL1500_.jpg" width="25%" height="25%">
 
-## Make an LED Flash Light
+## Make an LED Flashlight
 
 ### To Do:
 
@@ -35,8 +35,8 @@ You will need an LED, a coin battery, a button and electrical tape.
 
 2. Add a button to the circuit
   - Start the tape on the + side of the battery
-  - then wrap the tape arond to the - side taping the short end of the LED wire to the battery
-  - Make sure a little of the tire of the long wire extends over the tape on the + side. (can add the button here)
+  - then wrap the tape around the to the other side. THis will taping the short end of the LED wire to the battery
+  - Make sure a little of the tire of the long wire extends over the tape on the + side. (add the button here)
     
   <img src="coincircuit.png" width="50%" height="50%">
   
