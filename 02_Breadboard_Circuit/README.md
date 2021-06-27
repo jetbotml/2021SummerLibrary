@@ -1,4 +1,7 @@
-# 2 Lighting an LED
+# 2. Breadboard Circuit
+
+
+
 
 ## What is a breadboard?
 A breadboard is actually referring to a solderless breadboard. These are great units for making temporary circuits and prototyping, and they require absolutely no soldering.

@@ -1,4 +1,4 @@
-# 1. My First Circuit
+# 1. Make a Circuit
 
 ## What is a Circuit?
 An electronic circuit is a circular path of conductors by which electric current can flow.  A closed circuit is like a circle because it starts and ends at the same point forming a complete loop. Furthermore, a closed circuit allows electricity to flow from the (+) power to the (-) ground uninterrupted.
@@ -13,6 +13,9 @@ Further Reading
   1. https://www.makerspaces.com/basic-electronics/
   2. https://learn.sparkfun.com/tutorials/what-is-a-circuit/all
 
+## Make a Circut using an electrical circuit experiment Kit
+
+
 
 ## Create Your First Circuit
 To create our first circuit, we will be using an LED, a coin battery.
@@ -20,6 +23,3 @@ To create our first circuit, we will be using an LED, a coin battery.
 <img src="LED_Coin.png" width="10%" height="10%">
 
 Next, we will add an on/off switch using some electrical tape.
-
-![FIrstCircuitwithSwitch](coinLED2.png)
-
