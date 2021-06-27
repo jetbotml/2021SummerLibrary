@@ -24,19 +24,21 @@ Using the electrical circuit experiment Kit:
 <img src="71u03d4KVlL._SL1500_.jpg" width="25%" height="25%">
 
 ## Light an LED
-<img src="LED_Coin.png" width="10%" height="10%">
+
 ### To Do:
 
 You will need an LED, a coin battery, a button and electrical tape.
 1.  Create a simple circuit by placing the coin battery between the two wires of the LED.
   NOTE: the long wire should be on the positive side of the battery
+  
+<img src="2021-06-27-171431.jpg" width="50%" height="10%">
+
 2. Add a button to the circuit
   - Start the tape on the + side of the battery
-  <img src="LED_Coin.png" width="10%" height="10%">
   - then wrap the tape arond to the - side taping the short end of the LED wire to the battery
-  <img src="LED_Coin.png" width="10%" height="10%">
   - Make sure a little of the tire of the long wire extends over the tape on the + side. (can add the button here)
-  <img src="LED_Coin.png" width="10%" height="10%">
+    
+  <img src="coincircuit.png" width="50%" height="50%">
   
 
 
