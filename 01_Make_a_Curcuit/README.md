@@ -19,9 +19,12 @@ The voltage source, such as a battery, is needed in order to cause the current t
 
 Using the electrical circuit experiment Kit:
 1. Build a simple circuit using 2 wires, a battery and a light bulb.
-1. Add a switch to your circuit.
 
-<img src="71u03d4KVlL._SL1500_.jpg" width="25%" height="25%">
+<img src="IMG_8742.jpg" width="35%" height="35%">
+
+3. Add a switch to your circuit.
+
+<img src="IMG_8744.jpg" width="35%" height="35%">  <img src="IMG_8745.jpg" width="35%" height="35%">
 
 ## Make an LED Flashlight
 
