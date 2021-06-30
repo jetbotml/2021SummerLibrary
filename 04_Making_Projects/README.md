@@ -4,7 +4,7 @@
 
 ## To Do
 
-Build the following projects
+### Build the following projects
 
 1. Making traffic lights https://projects.raspberrypi.org/en/projects/physical-computing/9
 2. Python Quick Reaction Game 
