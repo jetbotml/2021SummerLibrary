@@ -20,6 +20,5 @@
 6. [LEDBarGraph](https://gpiozero.readthedocs.io/en/stable/recipes.html#ledbargraph)
 
 
-
-<img src="2021-06-29-213058.jpg" width="50%" height="50%">
+<img src="2021-06-29-213058.jpg" width="75%" height="75%">
 
