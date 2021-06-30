@@ -8,6 +8,8 @@
 <img src="pir_module.png" width="25%" height="25%"> <img src="ultrasonic-distance-sensor.png" width="25%" height="25%"> <img src="ldr.png" width="25%" height="25%">
 
 ### To Do
-1. [Using a PIR sensor](https://projects.raspberrypi.org/en/projects/physical-computing/11)
+1. Motion Sensor 
+    1. [Using a PIR sensor](https://projects.raspberrypi.org/en/projects/physical-computing/11)
+    1. [Motion sensor with LED](https://gpiozero.readthedocs.io/en/stable/recipes.html#motion-sensor)
 1. [Using an ultrasonic distance sensor](https://projects.raspberrypi.org/en/projects/physical-computing/12)
 1. [Using a light-dependent resistor](https://projects.raspberrypi.org/en/projects/physical-computing/10)
