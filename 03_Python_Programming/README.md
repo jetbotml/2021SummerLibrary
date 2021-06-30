@@ -9,7 +9,7 @@
 
 [GPIO Pin Numbering](https://gpiozero.readthedocs.io/en/stable/recipes.html#pin-numbering)
 
-<img src="GPIO-Pins.png" width="35%" height="35%">
+<img src="GPIO-Pins.png" width="20%" height="20%">
 
 ### To Do
 1. [Turn an LED on and off](https://gpiozero.readthedocs.io/en/stable/recipes.html#led)
