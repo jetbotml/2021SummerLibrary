@@ -1,7 +1,8 @@
 # 2. Breadboard Circuit
 
-
-
+## Learning Objective: 
+1. Understand how to use a breadboard
+2. Be able to build and test a circuit on a breadboard
 
 ## What is a breadboard?
 A breadboard is actually referring to a solderless breadboard. These are great units for making temporary circuits and prototyping, and they require absolutely no soldering.

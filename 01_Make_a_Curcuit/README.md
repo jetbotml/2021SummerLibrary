@@ -1,5 +1,9 @@
 # 1. Make a Circuit.
 
+## Learning Objective: 
+1. Understand the three basic elements of a circuit
+2. Be able to build and test a circuit
+
 ## What is a Circuit?
 An electronic circuit is a circular path of conductors by which electric current can flow.  A closed circuit is like a circle because it starts and ends at the same point forming a complete loop. Furthermore, a closed circuit allows electricity to flow from the (+) power to the (-) ground uninterrupted.
 

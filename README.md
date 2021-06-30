@@ -8,3 +8,7 @@
 4. [Making Projects](https://github.com/jetbotml/2021SummerLibrary/tree/main/04_Making_Projects)
 
 ## Intermediate Sensors and Actuators 
+
+5. [Sensors](https://github.com/jetbotml/2021SummerLibrary/tree/main/05_Sensors)
+6. [Actuators](https://github.com/jetbotml/2021SummerLibrary/tree/main/06_Actuators)
+7. [Design Project](https://github.com/jetbotml/2021SummerLibrary/tree/main/07_Design_Project)
