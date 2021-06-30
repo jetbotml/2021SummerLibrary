@@ -9,7 +9,7 @@
 
 [GPIO Pin Numbering](https://gpiozero.readthedocs.io/en/stable/recipes.html#pin-numbering)
 
-<img src="GPIO-Pins.png" width="35%" height="35%">
+<img src="GPIO-Pins.png" width="10%" height="35%">
 
 ### To Do
 1. [Turn an LED on and off](https://gpiozero.readthedocs.io/en/stable/recipes.html#led)
@@ -18,3 +18,6 @@
 4. [Button controlled LED](https://gpiozero.readthedocs.io/en/stable/recipes.html#button-controlled-led)
 5. [LEDBoard](https://gpiozero.readthedocs.io/en/stable/recipes.html#ledboard)
 6. [LEDBarGraph](https://gpiozero.readthedocs.io/en/stable/recipes.html#ledbargraph)
+
+
+<img src="2021-06-29-213058.jpg" width="50%" height="50%">
